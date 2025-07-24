@@ -42,16 +42,16 @@ This project presents the design, implementation, and analysis of a **Boost Conv
 ```
 boost-converter/
 │
-├── gate-driver/           # Gate driver design & output testing
+├── gate-driver/            # Gate driver design & output testing
 │ ├── pcb-layout.png
 │ └── pwm-waveform.png
 │
-├── boost-pcb/             # Boost converter circuit
+├── boost-pcb/                # Boost converter circuit
 │ ├── schematic.png
 │ ├── layout.png
 │ └── fabricated-board.jpg
 │
-├── waveforms/             # Oscilloscope measurements
+├── waveforms/                    # Oscilloscope measurements
 │ ├── ccm-inductor-current.png
 │ ├── ccm-switch-voltage.png
 │ ├── dcm-inductor-current.png
